@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-cpq-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-cpq",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-cpq-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/cpq.md",
+  "presentationPlan": "projects/crm/nextjs/cpq.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
